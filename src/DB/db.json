@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "sdvmsvkslkvmsdv",
+      "email": "asd@gmail.com",
+      "pass": "zXzxzxzxzacs",
+      "id": 1
+    },
+    {
+      "name": "asdasdsadasdasds",
+      "email": "a@gmail.com",
+      "pass": "1231233123213",
+      "id": 36
+    },
+    {
+      "name": "ahdahdahdahd",
+      "email": "ahd@gmail.com",
+      "pass": "1231231230",
+      "id": 37
+    },
+    {
+      "name": "ahd123123123",
+      "email": "a@gmail.com",
+      "pass": "123",
+      "id": 38
+    }
+  ]
+}
