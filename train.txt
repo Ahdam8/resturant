@@ -1,0 +1,12 @@
+1- اذا نعدي ملفات او مجلدات بعملخا اول شي git add 
+2- بشوف ال  git stauts بقلي ضفت ال ملفات يلي عملتلها git add 
+3- اخر شي بعمل git commiy -m "my messae for team
+4- اخر شي رح نرفع لل Remote repo 
+5- هيك خلص ال local repo منطلع هلق لل remote repo 
+
+
+
+branch 
+1- بهالامرين بعرف اسم ال git braanch وال git reomte -v
+
+6- هلق وقت نطلع للريموت  git push origin master
